@@ -57,4 +57,3 @@ print("status    :",status)
 print("-------------------------------------------")
 print("                 THANK YOU                 ")
 print("-------------------------------------------")
-C:\Users\5490 I5.8TH\PyCharmMiscProject\.venv\student_reportcard.py
